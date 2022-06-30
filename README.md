@@ -8,5 +8,3 @@ To store live stock data in sql run ipython3 fyers/accounts_database.py
 
 This code is kept publicly in github for educational purpose only .I am not responsible with your profit and losses.
 
-# fyers-fully-automated-code-nse
-# fyers-fully-automated-code-nse
